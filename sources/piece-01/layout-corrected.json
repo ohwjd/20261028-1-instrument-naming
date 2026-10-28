@@ -30,15 +30,25 @@
 			]
 		},
 		{
-			"id": "i2",
-			"name": "Oboe I!",
+			"id": "i16",
+			"name": "Oboe",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i2-1",
-					"parts": []
+					"id": "i16-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -49,33 +59,41 @@
 			"grand": false,
 			"parts": [
 				{
+					"name": "I"
+				},
+				{
 					"name": "II"
 				}
 			],
 			"staves": [
 				{
-					"id": "i3-1",
+					"id": "i3-2",
 					"parts": [
-						0
+						0,
+						1
 					]
 				}
 			]
 		},
 		{
-			"id": "i4",
-			"name": "Fagott I",
+			"id": "i17",
+			"name": "Fagott",
 			"abbr": "",
 			"grand": false,
 			"parts": [
+				{
+					"name": "I"
+				},
 				{
 					"name": "II"
 				}
 			],
 			"staves": [
 				{
-					"id": "i4-1",
+					"id": "i17-1",
 					"parts": [
-						0
+						0,
+						1
 					]
 				}
 			]
@@ -320,21 +338,21 @@
 					"uly": 883,
 					"lrx": 2336,
 					"lry": 951,
-					"staff": "i2-1"
+					"staff": "i16-2"
 				},
 				{
 					"ulx": 474,
 					"uly": 1032,
 					"lrx": 2336,
 					"lry": 1116,
-					"staff": "i3-1"
+					"staff": "i3-2"
 				},
 				{
 					"ulx": 484,
 					"uly": 1207,
 					"lrx": 2345,
 					"lry": 1276,
-					"staff": "i4-1"
+					"staff": "i17-1"
 				},
 				{
 					"ulx": 464,
