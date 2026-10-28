@@ -173,12 +173,11 @@
                            <label xml:id="label-27">Violine I</label>
                            <instrDef xml:id="instrDef-14"/>
                            <layerDef xml:id="layerDef-20" n="1" label="I"/>
-                           <layerDef xml:id="layerDef-21" n="2" label="II"/>
                         </staffDef>
                         <staffDef xml:id="i13-staff2" n="15" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
                            <label xml:id="label-28">Violine II</label>
                            <instrDef xml:id="instrDef-15"/>
-                           <layerDef xml:id="layerDef-22" n="2" label="II"/>
+                           <layerDef xml:id="layerDef-21" n="2" label="II"/>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i14-staff1" n="16" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
