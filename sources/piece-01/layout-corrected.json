@@ -318,19 +318,6 @@
 					"parts": []
 				}
 			]
-		},
-		{
-			"id": "i5",
-			"name": "I Hom ın F",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i5-1",
-					"parts": []
-				}
-			]
 		}
 	],
 	"groups": [],
@@ -971,14 +958,14 @@
 					"uly": 2176,
 					"lrx": 2341,
 					"lry": 2241,
-					"staff": "i20-1"
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 263,
 					"uly": 2280,
 					"lrx": 2332,
 					"lry": 2347,
-					"staff": "i5-1"
+					"staff": "i18-3"
 				},
 				{
 					"ulx": 261,
