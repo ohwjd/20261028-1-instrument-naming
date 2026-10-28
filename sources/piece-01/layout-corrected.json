@@ -289,6 +289,19 @@
 					"parts": []
 				}
 			]
+		},
+		{
+			"id": "i20",
+			"name": "Kontrabass",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i20-1",
+					"parts": []
+				}
+			]
 		}
 	],
 	"groups": [],
@@ -464,7 +477,8 @@
 					"ulx": 486,
 					"uly": 3117,
 					"lrx": 2337,
-					"lry": 3185
+					"lry": 3185,
+					"staff": "i20-1"
 				}
 			],
 			"grandstaves": []
