@@ -311,29 +311,6 @@
 			]
 		},
 		{
-			"id": "i4",
-			"name": "Fagott I",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "I"
-				},
-				{
-					"name": "II"
-				}
-			],
-			"staves": [
-				{
-					"id": "i4-2",
-					"parts": [
-						0,
-						1
-					]
-				}
-			]
-		},
-		{
 			"id": "i5",
 			"name": "I Hom ın F",
 			"abbr": "",
@@ -356,6 +333,29 @@
 				{
 					"id": "i2-1",
 					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "Fagott I",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i4-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		}
@@ -673,7 +673,7 @@
 					"uly": 690,
 					"lrx": 2340,
 					"lry": 748,
-					"staff": "i4-2"
+					"staff": "i17-1"
 				},
 				{
 					"ulx": 259,

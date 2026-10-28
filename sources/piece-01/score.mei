@@ -192,19 +192,19 @@
                         <label xml:id="label-33">Kontrabass</label>
                         <instrDef xml:id="instrDef-18"/>
                      </staffDef>
-                     <staffDef xml:id="i4-staff1" n="19" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-34">Fagott I</label>
+                     <staffDef xml:id="i5-staff1" n="19" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-34">I Hom ın F</label>
                         <instrDef xml:id="instrDef-19"/>
-                        <layerDef xml:id="layerDef-22" n="1"><label xml:id="label-35">I</label></layerDef>
-                        <layerDef xml:id="layerDef-23" n="2"><label xml:id="label-36">II</label></layerDef>
                      </staffDef>
-                     <staffDef xml:id="i5-staff1" n="20" lines="5" clef.shape="G" clef.line="2" keysig="0" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-37">I Hom ın F</label>
+                     <staffDef xml:id="i2-staff1" n="20" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-35">Oboe I!</label>
                         <instrDef xml:id="instrDef-20"/>
                      </staffDef>
-                     <staffDef xml:id="i2-staff1" n="21" lines="5" clef.shape="G" clef.line="2" visible="false" meter.count="2" meter.unit="2">
-                        <label xml:id="label-38">Oboe I!</label>
+                     <staffDef xml:id="i4-staff1" n="21" lines="5" clef.shape="F" clef.line="4" visible="false" meter.count="2" meter.unit="2">
+                        <label xml:id="label-36">Fagott I</label>
                         <instrDef xml:id="instrDef-21"/>
+                        <layerDef xml:id="layerDef-22" n="1"><label xml:id="label-37">I</label></layerDef>
+                        <layerDef xml:id="layerDef-23" n="2"><label xml:id="label-38">II</label></layerDef>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
